@@ -1,0 +1,35 @@
+C:\Users\gimsinc 0153\source\repos\suTry\suTry\bin\Debug\netcoreapp3.1\suTry.exe
+C:\Users\gimsinc 0153\source\repos\suTry\suTry\bin\Debug\netcoreapp3.1\suTry.deps.json
+C:\Users\gimsinc 0153\source\repos\suTry\suTry\bin\Debug\netcoreapp3.1\suTry.runtimeconfig.json
+C:\Users\gimsinc 0153\source\repos\suTry\suTry\bin\Debug\netcoreapp3.1\suTry.runtimeconfig.dev.json
+C:\Users\gimsinc 0153\source\repos\suTry\suTry\bin\Debug\netcoreapp3.1\suTry.dll
+C:\Users\gimsinc 0153\source\repos\suTry\suTry\bin\Debug\netcoreapp3.1\suTry.pdb
+C:\Users\gimsinc 0153\source\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.csprojAssemblyReference.cache
+C:\Users\gimsinc 0153\source\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.csproj.GenerateResource.cache
+C:\Users\gimsinc 0153\source\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.AssemblyInfoInputs.cache
+C:\Users\gimsinc 0153\source\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.AssemblyInfo.cs
+C:\Users\gimsinc 0153\source\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.csproj.CoreCompileInputs.cache
+C:\Users\gimsinc 0153\source\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.dll
+C:\Users\gimsinc 0153\source\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.pdb
+C:\Users\gimsinc 0153\source\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.genruntimeconfig.cache
+C:\Users\gimsinc 0153\source\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.Home2.resources
+C:\Users\gimsinc 0153\source\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.Properties.Resources.resources
+C:\Users\gimsinc 0153\source\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.Form1.resources
+C:\Users\SUNami\Desktop\repos\suTry\suTry\bin\Debug\netcoreapp3.1\suTry.exe
+C:\Users\SUNami\Desktop\repos\suTry\suTry\bin\Debug\netcoreapp3.1\suTry.deps.json
+C:\Users\SUNami\Desktop\repos\suTry\suTry\bin\Debug\netcoreapp3.1\suTry.runtimeconfig.json
+C:\Users\SUNami\Desktop\repos\suTry\suTry\bin\Debug\netcoreapp3.1\suTry.runtimeconfig.dev.json
+C:\Users\SUNami\Desktop\repos\suTry\suTry\bin\Debug\netcoreapp3.1\suTry.dll
+C:\Users\SUNami\Desktop\repos\suTry\suTry\bin\Debug\netcoreapp3.1\suTry.pdb
+C:\Users\SUNami\Desktop\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.csproj.AssemblyReference.cache
+C:\Users\SUNami\Desktop\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.Form1.resources
+C:\Users\SUNami\Desktop\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.Home2.resources
+C:\Users\SUNami\Desktop\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.Properties.Resources.resources
+C:\Users\SUNami\Desktop\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.csproj.GenerateResource.cache
+C:\Users\SUNami\Desktop\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUNami\Desktop\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.AssemblyInfoInputs.cache
+C:\Users\SUNami\Desktop\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.AssemblyInfo.cs
+C:\Users\SUNami\Desktop\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.csproj.CoreCompileInputs.cache
+C:\Users\SUNami\Desktop\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.dll
+C:\Users\SUNami\Desktop\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.pdb
+C:\Users\SUNami\Desktop\repos\suTry\suTry\obj\Debug\netcoreapp3.1\suTry.genruntimeconfig.cache

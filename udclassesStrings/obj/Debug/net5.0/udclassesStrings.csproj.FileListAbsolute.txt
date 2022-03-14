@@ -1,0 +1,16 @@
+C:\Users\gimsinc 0153\source\repos\udclassesStrings\bin\Debug\net5.0\udclassesStrings.exe
+C:\Users\gimsinc 0153\source\repos\udclassesStrings\bin\Debug\net5.0\udclassesStrings.deps.json
+C:\Users\gimsinc 0153\source\repos\udclassesStrings\bin\Debug\net5.0\udclassesStrings.runtimeconfig.json
+C:\Users\gimsinc 0153\source\repos\udclassesStrings\bin\Debug\net5.0\udclassesStrings.runtimeconfig.dev.json
+C:\Users\gimsinc 0153\source\repos\udclassesStrings\bin\Debug\net5.0\udclassesStrings.dll
+C:\Users\gimsinc 0153\source\repos\udclassesStrings\bin\Debug\net5.0\ref\udclassesStrings.dll
+C:\Users\gimsinc 0153\source\repos\udclassesStrings\bin\Debug\net5.0\udclassesStrings.pdb
+C:\Users\gimsinc 0153\source\repos\udclassesStrings\obj\Debug\net5.0\udclassesStrings.csproj.AssemblyReference.cache
+C:\Users\gimsinc 0153\source\repos\udclassesStrings\obj\Debug\net5.0\udclassesStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gimsinc 0153\source\repos\udclassesStrings\obj\Debug\net5.0\udclassesStrings.AssemblyInfoInputs.cache
+C:\Users\gimsinc 0153\source\repos\udclassesStrings\obj\Debug\net5.0\udclassesStrings.AssemblyInfo.cs
+C:\Users\gimsinc 0153\source\repos\udclassesStrings\obj\Debug\net5.0\udclassesStrings.csproj.CoreCompileInputs.cache
+C:\Users\gimsinc 0153\source\repos\udclassesStrings\obj\Debug\net5.0\udclassesStrings.dll
+C:\Users\gimsinc 0153\source\repos\udclassesStrings\obj\Debug\net5.0\ref\udclassesStrings.dll
+C:\Users\gimsinc 0153\source\repos\udclassesStrings\obj\Debug\net5.0\udclassesStrings.pdb
+C:\Users\gimsinc 0153\source\repos\udclassesStrings\obj\Debug\net5.0\udclassesStrings.genruntimeconfig.cache

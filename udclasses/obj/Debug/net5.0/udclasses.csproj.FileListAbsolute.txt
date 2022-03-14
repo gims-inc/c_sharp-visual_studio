@@ -1,0 +1,32 @@
+C:\Users\gimsinc 0153\source\repos\udclasses\bin\Debug\net5.0\udclasses.exe
+C:\Users\gimsinc 0153\source\repos\udclasses\bin\Debug\net5.0\udclasses.deps.json
+C:\Users\gimsinc 0153\source\repos\udclasses\bin\Debug\net5.0\udclasses.runtimeconfig.json
+C:\Users\gimsinc 0153\source\repos\udclasses\bin\Debug\net5.0\udclasses.runtimeconfig.dev.json
+C:\Users\gimsinc 0153\source\repos\udclasses\bin\Debug\net5.0\udclasses.dll
+C:\Users\gimsinc 0153\source\repos\udclasses\bin\Debug\net5.0\ref\udclasses.dll
+C:\Users\gimsinc 0153\source\repos\udclasses\bin\Debug\net5.0\udclasses.pdb
+C:\Users\gimsinc 0153\source\repos\udclasses\obj\Debug\net5.0\udclasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gimsinc 0153\source\repos\udclasses\obj\Debug\net5.0\udclasses.AssemblyInfoInputs.cache
+C:\Users\gimsinc 0153\source\repos\udclasses\obj\Debug\net5.0\udclasses.AssemblyInfo.cs
+C:\Users\gimsinc 0153\source\repos\udclasses\obj\Debug\net5.0\udclasses.csproj.CoreCompileInputs.cache
+C:\Users\gimsinc 0153\source\repos\udclasses\obj\Debug\net5.0\udclasses.dll
+C:\Users\gimsinc 0153\source\repos\udclasses\obj\Debug\net5.0\ref\udclasses.dll
+C:\Users\gimsinc 0153\source\repos\udclasses\obj\Debug\net5.0\udclasses.pdb
+C:\Users\gimsinc 0153\source\repos\udclasses\obj\Debug\net5.0\udclasses.genruntimeconfig.cache
+C:\Users\gimsinc 0153\source\repos\udclasses\obj\Debug\net5.0\udclasses.csproj.AssemblyReference.cache
+C:\Users\SUNami\Desktop\repos\udclasses\bin\Debug\net5.0\udclasses.exe
+C:\Users\SUNami\Desktop\repos\udclasses\bin\Debug\net5.0\udclasses.deps.json
+C:\Users\SUNami\Desktop\repos\udclasses\bin\Debug\net5.0\udclasses.runtimeconfig.json
+C:\Users\SUNami\Desktop\repos\udclasses\bin\Debug\net5.0\udclasses.runtimeconfig.dev.json
+C:\Users\SUNami\Desktop\repos\udclasses\bin\Debug\net5.0\udclasses.dll
+C:\Users\SUNami\Desktop\repos\udclasses\bin\Debug\net5.0\ref\udclasses.dll
+C:\Users\SUNami\Desktop\repos\udclasses\bin\Debug\net5.0\udclasses.pdb
+C:\Users\SUNami\Desktop\repos\udclasses\obj\Debug\net5.0\udclasses.csproj.AssemblyReference.cache
+C:\Users\SUNami\Desktop\repos\udclasses\obj\Debug\net5.0\udclasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUNami\Desktop\repos\udclasses\obj\Debug\net5.0\udclasses.AssemblyInfoInputs.cache
+C:\Users\SUNami\Desktop\repos\udclasses\obj\Debug\net5.0\udclasses.AssemblyInfo.cs
+C:\Users\SUNami\Desktop\repos\udclasses\obj\Debug\net5.0\udclasses.csproj.CoreCompileInputs.cache
+C:\Users\SUNami\Desktop\repos\udclasses\obj\Debug\net5.0\udclasses.dll
+C:\Users\SUNami\Desktop\repos\udclasses\obj\Debug\net5.0\ref\udclasses.dll
+C:\Users\SUNami\Desktop\repos\udclasses\obj\Debug\net5.0\udclasses.pdb
+C:\Users\SUNami\Desktop\repos\udclasses\obj\Debug\net5.0\udclasses.genruntimeconfig.cache

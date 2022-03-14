@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "pa", "pa\pa.shproj", "{6C769D54-C507-4BCC-8D79-B51B9EC878CD}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		pa\pa.projitems*{6c769d54-c507-4bcc-8d79-b51b9ec878cd}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {524A4428-440B-4D28-886E-D38418C5251B}
+	EndGlobalSection
+EndGlobal

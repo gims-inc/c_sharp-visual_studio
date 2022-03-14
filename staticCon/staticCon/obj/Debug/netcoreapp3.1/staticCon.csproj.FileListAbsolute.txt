@@ -1,0 +1,27 @@
+C:\Users\gimsinc 0153\source\repos\staticCon\staticCon\obj\Debug\netcoreapp3.1\staticCon.csprojAssemblyReference.cache
+C:\Users\gimsinc 0153\source\repos\staticCon\staticCon\obj\Debug\netcoreapp3.1\staticCon.AssemblyInfoInputs.cache
+C:\Users\gimsinc 0153\source\repos\staticCon\staticCon\obj\Debug\netcoreapp3.1\staticCon.AssemblyInfo.cs
+C:\Users\gimsinc 0153\source\repos\staticCon\staticCon\obj\Debug\netcoreapp3.1\staticCon.csproj.CoreCompileInputs.cache
+C:\Users\gimsinc 0153\source\repos\staticCon\staticCon\bin\Debug\netcoreapp3.1\staticCon.exe
+C:\Users\gimsinc 0153\source\repos\staticCon\staticCon\bin\Debug\netcoreapp3.1\staticCon.deps.json
+C:\Users\gimsinc 0153\source\repos\staticCon\staticCon\bin\Debug\netcoreapp3.1\staticCon.runtimeconfig.json
+C:\Users\gimsinc 0153\source\repos\staticCon\staticCon\bin\Debug\netcoreapp3.1\staticCon.runtimeconfig.dev.json
+C:\Users\gimsinc 0153\source\repos\staticCon\staticCon\bin\Debug\netcoreapp3.1\staticCon.dll
+C:\Users\gimsinc 0153\source\repos\staticCon\staticCon\bin\Debug\netcoreapp3.1\staticCon.pdb
+C:\Users\gimsinc 0153\source\repos\staticCon\staticCon\obj\Debug\netcoreapp3.1\staticCon.dll
+C:\Users\gimsinc 0153\source\repos\staticCon\staticCon\obj\Debug\netcoreapp3.1\staticCon.pdb
+C:\Users\gimsinc 0153\source\repos\staticCon\staticCon\obj\Debug\netcoreapp3.1\staticCon.genruntimeconfig.cache
+C:\Users\SUNami\Desktop\repos\staticCon\staticCon\bin\Debug\netcoreapp3.1\staticCon.exe
+C:\Users\SUNami\Desktop\repos\staticCon\staticCon\bin\Debug\netcoreapp3.1\staticCon.deps.json
+C:\Users\SUNami\Desktop\repos\staticCon\staticCon\bin\Debug\netcoreapp3.1\staticCon.runtimeconfig.json
+C:\Users\SUNami\Desktop\repos\staticCon\staticCon\bin\Debug\netcoreapp3.1\staticCon.runtimeconfig.dev.json
+C:\Users\SUNami\Desktop\repos\staticCon\staticCon\bin\Debug\netcoreapp3.1\staticCon.dll
+C:\Users\SUNami\Desktop\repos\staticCon\staticCon\bin\Debug\netcoreapp3.1\staticCon.pdb
+C:\Users\SUNami\Desktop\repos\staticCon\staticCon\obj\Debug\netcoreapp3.1\staticCon.csproj.AssemblyReference.cache
+C:\Users\SUNami\Desktop\repos\staticCon\staticCon\obj\Debug\netcoreapp3.1\staticCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUNami\Desktop\repos\staticCon\staticCon\obj\Debug\netcoreapp3.1\staticCon.AssemblyInfoInputs.cache
+C:\Users\SUNami\Desktop\repos\staticCon\staticCon\obj\Debug\netcoreapp3.1\staticCon.AssemblyInfo.cs
+C:\Users\SUNami\Desktop\repos\staticCon\staticCon\obj\Debug\netcoreapp3.1\staticCon.csproj.CoreCompileInputs.cache
+C:\Users\SUNami\Desktop\repos\staticCon\staticCon\obj\Debug\netcoreapp3.1\staticCon.dll
+C:\Users\SUNami\Desktop\repos\staticCon\staticCon\obj\Debug\netcoreapp3.1\staticCon.pdb
+C:\Users\SUNami\Desktop\repos\staticCon\staticCon\obj\Debug\netcoreapp3.1\staticCon.genruntimeconfig.cache

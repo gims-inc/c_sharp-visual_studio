@@ -1,0 +1,26 @@
+C:\Users\gimsinc 0153\source\repos\dbtry2\bin\Debug\dbtry2.exe.config
+C:\Users\gimsinc 0153\source\repos\dbtry2\bin\Debug\dbtry2.exe
+C:\Users\gimsinc 0153\source\repos\dbtry2\bin\Debug\dbtry2.pdb
+C:\Users\gimsinc 0153\source\repos\dbtry2\obj\Debug\dbtry2.csproj.AssemblyReference.cache
+C:\Users\gimsinc 0153\source\repos\dbtry2\obj\Debug\dbtry2.Properties.Resources.resources
+C:\Users\gimsinc 0153\source\repos\dbtry2\obj\Debug\dbtry2.csproj.GenerateResource.cache
+C:\Users\gimsinc 0153\source\repos\dbtry2\obj\Debug\dbtry2.csproj.CoreCompileInputs.cache
+C:\Users\gimsinc 0153\source\repos\dbtry2\obj\Debug\dbtry2.exe
+C:\Users\gimsinc 0153\source\repos\dbtry2\obj\Debug\dbtry2.pdb
+C:\Users\gimsinc 0153\source\repos\dbtry2\bin\Debug\Dapper.dll
+C:\Users\gimsinc 0153\source\repos\dbtry2\bin\Debug\Dapper.xml
+C:\Users\gimsinc 0153\source\repos\dbtry2\obj\Debug\dbtry2.csproj.CopyComplete
+C:\Users\gimsinc 0153\source\repos\dbtry2\obj\Debug\dbtry2.CRUD.resources
+C:\Users\SUNami\Desktop\repos\dbtry2\bin\Debug\dbtry2.exe.config
+C:\Users\SUNami\Desktop\repos\dbtry2\bin\Debug\dbtry2.exe
+C:\Users\SUNami\Desktop\repos\dbtry2\bin\Debug\dbtry2.pdb
+C:\Users\SUNami\Desktop\repos\dbtry2\bin\Debug\Dapper.dll
+C:\Users\SUNami\Desktop\repos\dbtry2\bin\Debug\Dapper.xml
+C:\Users\SUNami\Desktop\repos\dbtry2\obj\Debug\dbtry2.csproj.AssemblyReference.cache
+C:\Users\SUNami\Desktop\repos\dbtry2\obj\Debug\dbtry2.CRUD.resources
+C:\Users\SUNami\Desktop\repos\dbtry2\obj\Debug\dbtry2.Properties.Resources.resources
+C:\Users\SUNami\Desktop\repos\dbtry2\obj\Debug\dbtry2.csproj.GenerateResource.cache
+C:\Users\SUNami\Desktop\repos\dbtry2\obj\Debug\dbtry2.csproj.CoreCompileInputs.cache
+C:\Users\SUNami\Desktop\repos\dbtry2\obj\Debug\dbtry2.csproj.CopyComplete
+C:\Users\SUNami\Desktop\repos\dbtry2\obj\Debug\dbtry2.exe
+C:\Users\SUNami\Desktop\repos\dbtry2\obj\Debug\dbtry2.pdb

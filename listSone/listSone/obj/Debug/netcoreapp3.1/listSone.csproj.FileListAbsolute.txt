@@ -1,0 +1,13 @@
+C:\Users\gimsinc 0153\source\repos\listSone\listSone\bin\Debug\netcoreapp3.1\listSone.exe
+C:\Users\gimsinc 0153\source\repos\listSone\listSone\bin\Debug\netcoreapp3.1\listSone.deps.json
+C:\Users\gimsinc 0153\source\repos\listSone\listSone\bin\Debug\netcoreapp3.1\listSone.runtimeconfig.json
+C:\Users\gimsinc 0153\source\repos\listSone\listSone\bin\Debug\netcoreapp3.1\listSone.runtimeconfig.dev.json
+C:\Users\gimsinc 0153\source\repos\listSone\listSone\bin\Debug\netcoreapp3.1\listSone.dll
+C:\Users\gimsinc 0153\source\repos\listSone\listSone\bin\Debug\netcoreapp3.1\listSone.pdb
+C:\Users\gimsinc 0153\source\repos\listSone\listSone\obj\Debug\netcoreapp3.1\listSone.csprojAssemblyReference.cache
+C:\Users\gimsinc 0153\source\repos\listSone\listSone\obj\Debug\netcoreapp3.1\listSone.AssemblyInfoInputs.cache
+C:\Users\gimsinc 0153\source\repos\listSone\listSone\obj\Debug\netcoreapp3.1\listSone.AssemblyInfo.cs
+C:\Users\gimsinc 0153\source\repos\listSone\listSone\obj\Debug\netcoreapp3.1\listSone.csproj.CoreCompileInputs.cache
+C:\Users\gimsinc 0153\source\repos\listSone\listSone\obj\Debug\netcoreapp3.1\listSone.dll
+C:\Users\gimsinc 0153\source\repos\listSone\listSone\obj\Debug\netcoreapp3.1\listSone.pdb
+C:\Users\gimsinc 0153\source\repos\listSone\listSone\obj\Debug\netcoreapp3.1\listSone.genruntimeconfig.cache

@@ -1,0 +1,19 @@
+
+
+From the Arduino site for Serial.write and Serial.print:
+
+Serial.write()
+
+    Writes binary data to the serial port.
+ This data is sent as a byte or series of bytes; 
+to send the characters representing the digits of a number use the print() function instead.
+
+Serial.print()
+
+    Prints data to the serial port as human-readable ASCII text. 
+This command can take many forms. Numbers are printed using an ASCII character for each digit.
+ Floats are similarly printed as ASCII digits,
+ defaulting to two decimal places. 
+Bytes are sent as a single character. 
+Characters and strings are sent as is
+

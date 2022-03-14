@@ -1,0 +1,32 @@
+C:\Users\gimsinc 0153\source\repos\udclassUniqueNumbers\bin\Debug\net5.0\udclassUniqueNumbers.exe
+C:\Users\gimsinc 0153\source\repos\udclassUniqueNumbers\bin\Debug\net5.0\udclassUniqueNumbers.deps.json
+C:\Users\gimsinc 0153\source\repos\udclassUniqueNumbers\bin\Debug\net5.0\udclassUniqueNumbers.runtimeconfig.json
+C:\Users\gimsinc 0153\source\repos\udclassUniqueNumbers\bin\Debug\net5.0\udclassUniqueNumbers.runtimeconfig.dev.json
+C:\Users\gimsinc 0153\source\repos\udclassUniqueNumbers\bin\Debug\net5.0\udclassUniqueNumbers.dll
+C:\Users\gimsinc 0153\source\repos\udclassUniqueNumbers\bin\Debug\net5.0\ref\udclassUniqueNumbers.dll
+C:\Users\gimsinc 0153\source\repos\udclassUniqueNumbers\bin\Debug\net5.0\udclassUniqueNumbers.pdb
+C:\Users\gimsinc 0153\source\repos\udclassUniqueNumbers\obj\Debug\net5.0\udclassUniqueNumbers.csproj.AssemblyReference.cache
+C:\Users\gimsinc 0153\source\repos\udclassUniqueNumbers\obj\Debug\net5.0\udclassUniqueNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gimsinc 0153\source\repos\udclassUniqueNumbers\obj\Debug\net5.0\udclassUniqueNumbers.AssemblyInfoInputs.cache
+C:\Users\gimsinc 0153\source\repos\udclassUniqueNumbers\obj\Debug\net5.0\udclassUniqueNumbers.AssemblyInfo.cs
+C:\Users\gimsinc 0153\source\repos\udclassUniqueNumbers\obj\Debug\net5.0\udclassUniqueNumbers.csproj.CoreCompileInputs.cache
+C:\Users\gimsinc 0153\source\repos\udclassUniqueNumbers\obj\Debug\net5.0\udclassUniqueNumbers.dll
+C:\Users\gimsinc 0153\source\repos\udclassUniqueNumbers\obj\Debug\net5.0\ref\udclassUniqueNumbers.dll
+C:\Users\gimsinc 0153\source\repos\udclassUniqueNumbers\obj\Debug\net5.0\udclassUniqueNumbers.pdb
+C:\Users\gimsinc 0153\source\repos\udclassUniqueNumbers\obj\Debug\net5.0\udclassUniqueNumbers.genruntimeconfig.cache
+C:\Users\SUNami\Desktop\repos\udclassUniqueNumbers\bin\Debug\net5.0\udclassUniqueNumbers.exe
+C:\Users\SUNami\Desktop\repos\udclassUniqueNumbers\bin\Debug\net5.0\udclassUniqueNumbers.deps.json
+C:\Users\SUNami\Desktop\repos\udclassUniqueNumbers\bin\Debug\net5.0\udclassUniqueNumbers.runtimeconfig.json
+C:\Users\SUNami\Desktop\repos\udclassUniqueNumbers\bin\Debug\net5.0\udclassUniqueNumbers.runtimeconfig.dev.json
+C:\Users\SUNami\Desktop\repos\udclassUniqueNumbers\bin\Debug\net5.0\udclassUniqueNumbers.dll
+C:\Users\SUNami\Desktop\repos\udclassUniqueNumbers\bin\Debug\net5.0\ref\udclassUniqueNumbers.dll
+C:\Users\SUNami\Desktop\repos\udclassUniqueNumbers\bin\Debug\net5.0\udclassUniqueNumbers.pdb
+C:\Users\SUNami\Desktop\repos\udclassUniqueNumbers\obj\Debug\net5.0\udclassUniqueNumbers.csproj.AssemblyReference.cache
+C:\Users\SUNami\Desktop\repos\udclassUniqueNumbers\obj\Debug\net5.0\udclassUniqueNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUNami\Desktop\repos\udclassUniqueNumbers\obj\Debug\net5.0\udclassUniqueNumbers.AssemblyInfoInputs.cache
+C:\Users\SUNami\Desktop\repos\udclassUniqueNumbers\obj\Debug\net5.0\udclassUniqueNumbers.AssemblyInfo.cs
+C:\Users\SUNami\Desktop\repos\udclassUniqueNumbers\obj\Debug\net5.0\udclassUniqueNumbers.csproj.CoreCompileInputs.cache
+C:\Users\SUNami\Desktop\repos\udclassUniqueNumbers\obj\Debug\net5.0\udclassUniqueNumbers.dll
+C:\Users\SUNami\Desktop\repos\udclassUniqueNumbers\obj\Debug\net5.0\ref\udclassUniqueNumbers.dll
+C:\Users\SUNami\Desktop\repos\udclassUniqueNumbers\obj\Debug\net5.0\udclassUniqueNumbers.pdb
+C:\Users\SUNami\Desktop\repos\udclassUniqueNumbers\obj\Debug\net5.0\udclassUniqueNumbers.genruntimeconfig.cache

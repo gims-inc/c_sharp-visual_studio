@@ -1,0 +1,32 @@
+C:\Users\gimsinc 0153\source\repos\udclassProceduralProgramming\bin\Debug\net5.0\udclassProceduralProgramming.exe
+C:\Users\gimsinc 0153\source\repos\udclassProceduralProgramming\bin\Debug\net5.0\udclassProceduralProgramming.deps.json
+C:\Users\gimsinc 0153\source\repos\udclassProceduralProgramming\bin\Debug\net5.0\udclassProceduralProgramming.runtimeconfig.json
+C:\Users\gimsinc 0153\source\repos\udclassProceduralProgramming\bin\Debug\net5.0\udclassProceduralProgramming.runtimeconfig.dev.json
+C:\Users\gimsinc 0153\source\repos\udclassProceduralProgramming\bin\Debug\net5.0\udclassProceduralProgramming.dll
+C:\Users\gimsinc 0153\source\repos\udclassProceduralProgramming\bin\Debug\net5.0\ref\udclassProceduralProgramming.dll
+C:\Users\gimsinc 0153\source\repos\udclassProceduralProgramming\bin\Debug\net5.0\udclassProceduralProgramming.pdb
+C:\Users\gimsinc 0153\source\repos\udclassProceduralProgramming\obj\Debug\net5.0\udclassProceduralProgramming.csproj.AssemblyReference.cache
+C:\Users\gimsinc 0153\source\repos\udclassProceduralProgramming\obj\Debug\net5.0\udclassProceduralProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gimsinc 0153\source\repos\udclassProceduralProgramming\obj\Debug\net5.0\udclassProceduralProgramming.AssemblyInfoInputs.cache
+C:\Users\gimsinc 0153\source\repos\udclassProceduralProgramming\obj\Debug\net5.0\udclassProceduralProgramming.AssemblyInfo.cs
+C:\Users\gimsinc 0153\source\repos\udclassProceduralProgramming\obj\Debug\net5.0\udclassProceduralProgramming.csproj.CoreCompileInputs.cache
+C:\Users\gimsinc 0153\source\repos\udclassProceduralProgramming\obj\Debug\net5.0\udclassProceduralProgramming.dll
+C:\Users\gimsinc 0153\source\repos\udclassProceduralProgramming\obj\Debug\net5.0\ref\udclassProceduralProgramming.dll
+C:\Users\gimsinc 0153\source\repos\udclassProceduralProgramming\obj\Debug\net5.0\udclassProceduralProgramming.pdb
+C:\Users\gimsinc 0153\source\repos\udclassProceduralProgramming\obj\Debug\net5.0\udclassProceduralProgramming.genruntimeconfig.cache
+C:\Users\SUNami\Desktop\repos\udclassProceduralProgramming\bin\Debug\net5.0\udclassProceduralProgramming.exe
+C:\Users\SUNami\Desktop\repos\udclassProceduralProgramming\bin\Debug\net5.0\udclassProceduralProgramming.deps.json
+C:\Users\SUNami\Desktop\repos\udclassProceduralProgramming\bin\Debug\net5.0\udclassProceduralProgramming.runtimeconfig.json
+C:\Users\SUNami\Desktop\repos\udclassProceduralProgramming\bin\Debug\net5.0\udclassProceduralProgramming.runtimeconfig.dev.json
+C:\Users\SUNami\Desktop\repos\udclassProceduralProgramming\bin\Debug\net5.0\udclassProceduralProgramming.dll
+C:\Users\SUNami\Desktop\repos\udclassProceduralProgramming\bin\Debug\net5.0\ref\udclassProceduralProgramming.dll
+C:\Users\SUNami\Desktop\repos\udclassProceduralProgramming\bin\Debug\net5.0\udclassProceduralProgramming.pdb
+C:\Users\SUNami\Desktop\repos\udclassProceduralProgramming\obj\Debug\net5.0\udclassProceduralProgramming.csproj.AssemblyReference.cache
+C:\Users\SUNami\Desktop\repos\udclassProceduralProgramming\obj\Debug\net5.0\udclassProceduralProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUNami\Desktop\repos\udclassProceduralProgramming\obj\Debug\net5.0\udclassProceduralProgramming.AssemblyInfoInputs.cache
+C:\Users\SUNami\Desktop\repos\udclassProceduralProgramming\obj\Debug\net5.0\udclassProceduralProgramming.AssemblyInfo.cs
+C:\Users\SUNami\Desktop\repos\udclassProceduralProgramming\obj\Debug\net5.0\udclassProceduralProgramming.csproj.CoreCompileInputs.cache
+C:\Users\SUNami\Desktop\repos\udclassProceduralProgramming\obj\Debug\net5.0\udclassProceduralProgramming.dll
+C:\Users\SUNami\Desktop\repos\udclassProceduralProgramming\obj\Debug\net5.0\ref\udclassProceduralProgramming.dll
+C:\Users\SUNami\Desktop\repos\udclassProceduralProgramming\obj\Debug\net5.0\udclassProceduralProgramming.pdb
+C:\Users\SUNami\Desktop\repos\udclassProceduralProgramming\obj\Debug\net5.0\udclassProceduralProgramming.genruntimeconfig.cache

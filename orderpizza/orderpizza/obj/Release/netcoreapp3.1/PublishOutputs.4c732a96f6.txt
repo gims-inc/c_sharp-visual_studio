@@ -1,0 +1,5 @@
+C:\Users\gimsinc 0153\Desktop\DAD\newapp\orderpizza.exe
+C:\Users\gimsinc 0153\Desktop\DAD\newapp\orderpizza.dll
+C:\Users\gimsinc 0153\Desktop\DAD\newapp\orderpizza.deps.json
+C:\Users\gimsinc 0153\Desktop\DAD\newapp\orderpizza.runtimeconfig.json
+C:\Users\gimsinc 0153\Desktop\DAD\newapp\orderpizza.pdb

@@ -1,0 +1,77 @@
+
+
+levels tabble; field,rnd,pduction,installation,.....  balance class,,,,
+
+
+ALTER TABLE `dispatches` ADD CONSTRAINT `dispatches_request_id_foreign` FOREIGN KEY (`request_id`) REFERENCES `requisitions`(`id`) ON DELETE RESTRICT ON UPDATE RESTRICT; 
+=================================================================
+ALTER TABLE `dispatches` CHANGE `id` `id` INT(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+==================================
+ALTER TABLE dispatches ADD CONSTRAINT dispatches_request_id_foreign FOREIGN KEY (request_id) REFERENCES requisitions (id)
+++++++++++++++++++++++++++++++++++++
+
+Rollback one step. Natively.-----undo last migration
+
+php artisan migrate:rollback  //--step=1
+
+
+====================================
+
+
+app/http/controllers
+-Controllers are responsible for controlling the flow of the application execution.
+ When you make a request (means request a page) to MVC application, 
+a controller is responsible for returning the response to that request.
+ The controller can perform one or more actions. 
+The controller action can return different types of action results to a particular request.
+
+The Controller is responsible for controlling the application logic and acts as the coordinator between the View and the Model.
+ The Controller receives an input from the users via the View, then processes the user's data with the help of Model and passes
+the results back to the View.
+================================
+
+php artisan make:controller ProductController --api
+
+
+===============================================
+php artisan route::list
+==========================================
+ composer require laravel/sanctum   +install sanctum for authentication
+
+
+php artisan make:controler AuthController
+
+Migrate a Specific Migration File
+
+$ php artisan migrate:refresh --path=database/migrations/2021_05_01_092040_create_products_table.php
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Model
+
+The Model component corresponds to all the data-related logic that the user works with.
+ This can represent either the data that is being transferred between the View and Controller
+ components or any other business logic-related data. For example, 
+a Customer object will retrieve the customer information from the database,
+ manipulate it and update it data back to the database or use it to render data.
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+View
+
+The View component is used for all the UI logic of the application.
+ For example, the Customer view will include all the UI components such as text boxes,
+ dropdowns, etc. that the final user interacts with.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ grp_b
+
+history
+
+Id CommandLine
+  -- -----------
+   1 php artisan make:model product --migration
+   2 php artisan migrate
+   3 php artisan make:controller ProductController --api
+   4  php artisan route:list
+   5 composer require laravel/sanctum
+   6 php artisan vendor:publish --provider="Laravel\Sanctum\SanctumServiceProvider"
+   7 php artisan migrate
+   8 php artisan make:controller AuthController

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="chpwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="user_controls\Admin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="user_controls\Dispatch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="user_controls\Getdata.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="user_controls\Login.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="user_controls\Track.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="user_controls\TrackController.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="user_controls\UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="user_controls\UserControl2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

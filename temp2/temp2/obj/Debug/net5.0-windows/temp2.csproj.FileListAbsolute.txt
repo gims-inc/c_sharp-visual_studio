@@ -1,0 +1,37 @@
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\bin\Debug\net5.0-windows\temp2.exe
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\bin\Debug\net5.0-windows\temp2.deps.json
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\bin\Debug\net5.0-windows\temp2.runtimeconfig.json
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\bin\Debug\net5.0-windows\temp2.runtimeconfig.dev.json
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\bin\Debug\net5.0-windows\temp2.dll
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\bin\Debug\net5.0-windows\ref\temp2.dll
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\bin\Debug\net5.0-windows\temp2.pdb
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.csprojAssemblyReference.cache
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.Form1.resources
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.csproj.GenerateResource.cache
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.AssemblyInfoInputs.cache
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.AssemblyInfo.cs
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.csproj.CoreCompileInputs.cache
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.dll
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\obj\Debug\net5.0-windows\ref\temp2.dll
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.pdb
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.genruntimeconfig.cache
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.control1.resources
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.control2.resources
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.control5.resources
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.login.resources
+C:\Users\gimsinc 0153\source\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.control3.resources
+C:\Users\SUNami\Desktop\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.csproj.AssemblyReference.cache
+C:\Users\SUNami\Desktop\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.controlFive.resources
+C:\Users\SUNami\Desktop\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.control1.resources
+C:\Users\SUNami\Desktop\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.controlTwo.resources
+C:\Users\SUNami\Desktop\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.Form1.resources
+C:\Users\SUNami\Desktop\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.login.resources
+C:\Users\SUNami\Desktop\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.csproj.GenerateResource.cache
+C:\Users\SUNami\Desktop\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUNami\Desktop\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.AssemblyInfoInputs.cache
+C:\Users\SUNami\Desktop\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.AssemblyInfo.cs
+C:\Users\SUNami\Desktop\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.csproj.CoreCompileInputs.cache
+C:\Users\SUNami\Desktop\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.dll
+C:\Users\SUNami\Desktop\repos\temp2\temp2\obj\Debug\net5.0-windows\ref\temp2.dll
+C:\Users\SUNami\Desktop\repos\temp2\temp2\obj\Debug\net5.0-windows\temp2.pdb

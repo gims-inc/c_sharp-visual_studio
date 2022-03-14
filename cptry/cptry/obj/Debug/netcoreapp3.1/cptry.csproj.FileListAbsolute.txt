@@ -1,0 +1,13 @@
+C:\Users\gimsinc 0153\source\repos\cptry\cptry\bin\Debug\netcoreapp3.1\cptry.exe
+C:\Users\gimsinc 0153\source\repos\cptry\cptry\bin\Debug\netcoreapp3.1\cptry.deps.json
+C:\Users\gimsinc 0153\source\repos\cptry\cptry\bin\Debug\netcoreapp3.1\cptry.runtimeconfig.json
+C:\Users\gimsinc 0153\source\repos\cptry\cptry\bin\Debug\netcoreapp3.1\cptry.runtimeconfig.dev.json
+C:\Users\gimsinc 0153\source\repos\cptry\cptry\bin\Debug\netcoreapp3.1\cptry.dll
+C:\Users\gimsinc 0153\source\repos\cptry\cptry\bin\Debug\netcoreapp3.1\cptry.pdb
+C:\Users\gimsinc 0153\source\repos\cptry\cptry\obj\Debug\netcoreapp3.1\cptry.csprojAssemblyReference.cache
+C:\Users\gimsinc 0153\source\repos\cptry\cptry\obj\Debug\netcoreapp3.1\cptry.AssemblyInfoInputs.cache
+C:\Users\gimsinc 0153\source\repos\cptry\cptry\obj\Debug\netcoreapp3.1\cptry.AssemblyInfo.cs
+C:\Users\gimsinc 0153\source\repos\cptry\cptry\obj\Debug\netcoreapp3.1\cptry.csproj.CoreCompileInputs.cache
+C:\Users\gimsinc 0153\source\repos\cptry\cptry\obj\Debug\netcoreapp3.1\cptry.dll
+C:\Users\gimsinc 0153\source\repos\cptry\cptry\obj\Debug\netcoreapp3.1\cptry.pdb
+C:\Users\gimsinc 0153\source\repos\cptry\cptry\obj\Debug\netcoreapp3.1\cptry.genruntimeconfig.cache

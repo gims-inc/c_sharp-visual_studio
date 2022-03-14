@@ -1,0 +1,16 @@
+C:\Users\gimsinc 0153\source\repos\udclassDates\bin\Debug\net5.0\udclassDates.exe
+C:\Users\gimsinc 0153\source\repos\udclassDates\bin\Debug\net5.0\udclassDates.deps.json
+C:\Users\gimsinc 0153\source\repos\udclassDates\bin\Debug\net5.0\udclassDates.runtimeconfig.json
+C:\Users\gimsinc 0153\source\repos\udclassDates\bin\Debug\net5.0\udclassDates.runtimeconfig.dev.json
+C:\Users\gimsinc 0153\source\repos\udclassDates\bin\Debug\net5.0\udclassDates.dll
+C:\Users\gimsinc 0153\source\repos\udclassDates\bin\Debug\net5.0\ref\udclassDates.dll
+C:\Users\gimsinc 0153\source\repos\udclassDates\bin\Debug\net5.0\udclassDates.pdb
+C:\Users\gimsinc 0153\source\repos\udclassDates\obj\Debug\net5.0\udclassDates.csproj.AssemblyReference.cache
+C:\Users\gimsinc 0153\source\repos\udclassDates\obj\Debug\net5.0\udclassDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gimsinc 0153\source\repos\udclassDates\obj\Debug\net5.0\udclassDates.AssemblyInfoInputs.cache
+C:\Users\gimsinc 0153\source\repos\udclassDates\obj\Debug\net5.0\udclassDates.AssemblyInfo.cs
+C:\Users\gimsinc 0153\source\repos\udclassDates\obj\Debug\net5.0\udclassDates.csproj.CoreCompileInputs.cache
+C:\Users\gimsinc 0153\source\repos\udclassDates\obj\Debug\net5.0\udclassDates.dll
+C:\Users\gimsinc 0153\source\repos\udclassDates\obj\Debug\net5.0\ref\udclassDates.dll
+C:\Users\gimsinc 0153\source\repos\udclassDates\obj\Debug\net5.0\udclassDates.pdb
+C:\Users\gimsinc 0153\source\repos\udclassDates\obj\Debug\net5.0\udclassDates.genruntimeconfig.cache

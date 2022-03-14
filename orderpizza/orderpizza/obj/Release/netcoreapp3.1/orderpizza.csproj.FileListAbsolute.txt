@@ -1,0 +1,13 @@
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\bin\Release\netcoreapp3.1\orderpizza.exe
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\bin\Release\netcoreapp3.1\orderpizza.deps.json
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\bin\Release\netcoreapp3.1\orderpizza.runtimeconfig.json
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\bin\Release\netcoreapp3.1\orderpizza.runtimeconfig.dev.json
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\bin\Release\netcoreapp3.1\orderpizza.dll
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\bin\Release\netcoreapp3.1\orderpizza.pdb
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\obj\Release\netcoreapp3.1\orderpizza.csprojAssemblyReference.cache
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\obj\Release\netcoreapp3.1\orderpizza.AssemblyInfoInputs.cache
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\obj\Release\netcoreapp3.1\orderpizza.AssemblyInfo.cs
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\obj\Release\netcoreapp3.1\orderpizza.csproj.CoreCompileInputs.cache
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\obj\Release\netcoreapp3.1\orderpizza.dll
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\obj\Release\netcoreapp3.1\orderpizza.pdb
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\obj\Release\netcoreapp3.1\orderpizza.genruntimeconfig.cache

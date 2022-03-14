@@ -1,0 +1,26 @@
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\bin\Debug\netcoreapp3.1\orderpizza.exe
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\bin\Debug\netcoreapp3.1\orderpizza.deps.json
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\bin\Debug\netcoreapp3.1\orderpizza.runtimeconfig.json
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\bin\Debug\netcoreapp3.1\orderpizza.runtimeconfig.dev.json
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\bin\Debug\netcoreapp3.1\orderpizza.dll
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\bin\Debug\netcoreapp3.1\orderpizza.pdb
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\obj\Debug\netcoreapp3.1\orderpizza.AssemblyInfoInputs.cache
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\obj\Debug\netcoreapp3.1\orderpizza.AssemblyInfo.cs
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\obj\Debug\netcoreapp3.1\orderpizza.csproj.CoreCompileInputs.cache
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\obj\Debug\netcoreapp3.1\orderpizza.dll
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\obj\Debug\netcoreapp3.1\orderpizza.pdb
+C:\Users\gimsinc 0153\source\repos\orderpizza\orderpizza\obj\Debug\netcoreapp3.1\orderpizza.genruntimeconfig.cache
+C:\Users\SUNami\Desktop\repos\orderpizza\orderpizza\bin\Debug\netcoreapp3.1\orderpizza.exe
+C:\Users\SUNami\Desktop\repos\orderpizza\orderpizza\bin\Debug\netcoreapp3.1\orderpizza.deps.json
+C:\Users\SUNami\Desktop\repos\orderpizza\orderpizza\bin\Debug\netcoreapp3.1\orderpizza.runtimeconfig.json
+C:\Users\SUNami\Desktop\repos\orderpizza\orderpizza\bin\Debug\netcoreapp3.1\orderpizza.runtimeconfig.dev.json
+C:\Users\SUNami\Desktop\repos\orderpizza\orderpizza\bin\Debug\netcoreapp3.1\orderpizza.dll
+C:\Users\SUNami\Desktop\repos\orderpizza\orderpizza\bin\Debug\netcoreapp3.1\orderpizza.pdb
+C:\Users\SUNami\Desktop\repos\orderpizza\orderpizza\obj\Debug\netcoreapp3.1\orderpizza.csproj.AssemblyReference.cache
+C:\Users\SUNami\Desktop\repos\orderpizza\orderpizza\obj\Debug\netcoreapp3.1\orderpizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUNami\Desktop\repos\orderpizza\orderpizza\obj\Debug\netcoreapp3.1\orderpizza.AssemblyInfoInputs.cache
+C:\Users\SUNami\Desktop\repos\orderpizza\orderpizza\obj\Debug\netcoreapp3.1\orderpizza.AssemblyInfo.cs
+C:\Users\SUNami\Desktop\repos\orderpizza\orderpizza\obj\Debug\netcoreapp3.1\orderpizza.csproj.CoreCompileInputs.cache
+C:\Users\SUNami\Desktop\repos\orderpizza\orderpizza\obj\Debug\netcoreapp3.1\orderpizza.dll
+C:\Users\SUNami\Desktop\repos\orderpizza\orderpizza\obj\Debug\netcoreapp3.1\orderpizza.pdb
+C:\Users\SUNami\Desktop\repos\orderpizza\orderpizza\obj\Debug\netcoreapp3.1\orderpizza.genruntimeconfig.cache

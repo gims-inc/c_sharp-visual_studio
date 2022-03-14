@@ -1,0 +1,32 @@
+C:\Users\gimsinc 0153\source\repos\udclassStringBuilder\bin\Debug\net5.0\udclassStringBuilder.exe
+C:\Users\gimsinc 0153\source\repos\udclassStringBuilder\bin\Debug\net5.0\udclassStringBuilder.deps.json
+C:\Users\gimsinc 0153\source\repos\udclassStringBuilder\bin\Debug\net5.0\udclassStringBuilder.runtimeconfig.json
+C:\Users\gimsinc 0153\source\repos\udclassStringBuilder\bin\Debug\net5.0\udclassStringBuilder.runtimeconfig.dev.json
+C:\Users\gimsinc 0153\source\repos\udclassStringBuilder\bin\Debug\net5.0\udclassStringBuilder.dll
+C:\Users\gimsinc 0153\source\repos\udclassStringBuilder\bin\Debug\net5.0\ref\udclassStringBuilder.dll
+C:\Users\gimsinc 0153\source\repos\udclassStringBuilder\bin\Debug\net5.0\udclassStringBuilder.pdb
+C:\Users\gimsinc 0153\source\repos\udclassStringBuilder\obj\Debug\net5.0\udclassStringBuilder.csproj.AssemblyReference.cache
+C:\Users\gimsinc 0153\source\repos\udclassStringBuilder\obj\Debug\net5.0\udclassStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gimsinc 0153\source\repos\udclassStringBuilder\obj\Debug\net5.0\udclassStringBuilder.AssemblyInfoInputs.cache
+C:\Users\gimsinc 0153\source\repos\udclassStringBuilder\obj\Debug\net5.0\udclassStringBuilder.AssemblyInfo.cs
+C:\Users\gimsinc 0153\source\repos\udclassStringBuilder\obj\Debug\net5.0\udclassStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\gimsinc 0153\source\repos\udclassStringBuilder\obj\Debug\net5.0\udclassStringBuilder.dll
+C:\Users\gimsinc 0153\source\repos\udclassStringBuilder\obj\Debug\net5.0\ref\udclassStringBuilder.dll
+C:\Users\gimsinc 0153\source\repos\udclassStringBuilder\obj\Debug\net5.0\udclassStringBuilder.pdb
+C:\Users\gimsinc 0153\source\repos\udclassStringBuilder\obj\Debug\net5.0\udclassStringBuilder.genruntimeconfig.cache
+C:\Users\SUNami\Desktop\repos\udclassStringBuilder\bin\Debug\net5.0\udclassStringBuilder.exe
+C:\Users\SUNami\Desktop\repos\udclassStringBuilder\bin\Debug\net5.0\udclassStringBuilder.deps.json
+C:\Users\SUNami\Desktop\repos\udclassStringBuilder\bin\Debug\net5.0\udclassStringBuilder.runtimeconfig.json
+C:\Users\SUNami\Desktop\repos\udclassStringBuilder\bin\Debug\net5.0\udclassStringBuilder.runtimeconfig.dev.json
+C:\Users\SUNami\Desktop\repos\udclassStringBuilder\bin\Debug\net5.0\udclassStringBuilder.dll
+C:\Users\SUNami\Desktop\repos\udclassStringBuilder\bin\Debug\net5.0\ref\udclassStringBuilder.dll
+C:\Users\SUNami\Desktop\repos\udclassStringBuilder\bin\Debug\net5.0\udclassStringBuilder.pdb
+C:\Users\SUNami\Desktop\repos\udclassStringBuilder\obj\Debug\net5.0\udclassStringBuilder.csproj.AssemblyReference.cache
+C:\Users\SUNami\Desktop\repos\udclassStringBuilder\obj\Debug\net5.0\udclassStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUNami\Desktop\repos\udclassStringBuilder\obj\Debug\net5.0\udclassStringBuilder.AssemblyInfoInputs.cache
+C:\Users\SUNami\Desktop\repos\udclassStringBuilder\obj\Debug\net5.0\udclassStringBuilder.AssemblyInfo.cs
+C:\Users\SUNami\Desktop\repos\udclassStringBuilder\obj\Debug\net5.0\udclassStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\SUNami\Desktop\repos\udclassStringBuilder\obj\Debug\net5.0\udclassStringBuilder.dll
+C:\Users\SUNami\Desktop\repos\udclassStringBuilder\obj\Debug\net5.0\ref\udclassStringBuilder.dll
+C:\Users\SUNami\Desktop\repos\udclassStringBuilder\obj\Debug\net5.0\udclassStringBuilder.pdb
+C:\Users\SUNami\Desktop\repos\udclassStringBuilder\obj\Debug\net5.0\udclassStringBuilder.genruntimeconfig.cache

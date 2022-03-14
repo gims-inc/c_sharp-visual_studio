@@ -1,0 +1,32 @@
+C:\Users\gimsinc 0153\source\repos\udclassesLooops\bin\Debug\net5.0\udclassesLooops.exe
+C:\Users\gimsinc 0153\source\repos\udclassesLooops\bin\Debug\net5.0\udclassesLooops.deps.json
+C:\Users\gimsinc 0153\source\repos\udclassesLooops\bin\Debug\net5.0\udclassesLooops.runtimeconfig.json
+C:\Users\gimsinc 0153\source\repos\udclassesLooops\bin\Debug\net5.0\udclassesLooops.runtimeconfig.dev.json
+C:\Users\gimsinc 0153\source\repos\udclassesLooops\bin\Debug\net5.0\udclassesLooops.dll
+C:\Users\gimsinc 0153\source\repos\udclassesLooops\bin\Debug\net5.0\ref\udclassesLooops.dll
+C:\Users\gimsinc 0153\source\repos\udclassesLooops\bin\Debug\net5.0\udclassesLooops.pdb
+C:\Users\gimsinc 0153\source\repos\udclassesLooops\obj\Debug\net5.0\udclassesLooops.csproj.AssemblyReference.cache
+C:\Users\gimsinc 0153\source\repos\udclassesLooops\obj\Debug\net5.0\udclassesLooops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gimsinc 0153\source\repos\udclassesLooops\obj\Debug\net5.0\udclassesLooops.AssemblyInfoInputs.cache
+C:\Users\gimsinc 0153\source\repos\udclassesLooops\obj\Debug\net5.0\udclassesLooops.AssemblyInfo.cs
+C:\Users\gimsinc 0153\source\repos\udclassesLooops\obj\Debug\net5.0\udclassesLooops.csproj.CoreCompileInputs.cache
+C:\Users\gimsinc 0153\source\repos\udclassesLooops\obj\Debug\net5.0\udclassesLooops.dll
+C:\Users\gimsinc 0153\source\repos\udclassesLooops\obj\Debug\net5.0\ref\udclassesLooops.dll
+C:\Users\gimsinc 0153\source\repos\udclassesLooops\obj\Debug\net5.0\udclassesLooops.pdb
+C:\Users\gimsinc 0153\source\repos\udclassesLooops\obj\Debug\net5.0\udclassesLooops.genruntimeconfig.cache
+C:\Users\SUNami\Desktop\repos\udclassesLooops\bin\Debug\net5.0\udclassesLooops.exe
+C:\Users\SUNami\Desktop\repos\udclassesLooops\bin\Debug\net5.0\udclassesLooops.deps.json
+C:\Users\SUNami\Desktop\repos\udclassesLooops\bin\Debug\net5.0\udclassesLooops.runtimeconfig.json
+C:\Users\SUNami\Desktop\repos\udclassesLooops\bin\Debug\net5.0\udclassesLooops.runtimeconfig.dev.json
+C:\Users\SUNami\Desktop\repos\udclassesLooops\bin\Debug\net5.0\udclassesLooops.dll
+C:\Users\SUNami\Desktop\repos\udclassesLooops\bin\Debug\net5.0\ref\udclassesLooops.dll
+C:\Users\SUNami\Desktop\repos\udclassesLooops\bin\Debug\net5.0\udclassesLooops.pdb
+C:\Users\SUNami\Desktop\repos\udclassesLooops\obj\Debug\net5.0\udclassesLooops.csproj.AssemblyReference.cache
+C:\Users\SUNami\Desktop\repos\udclassesLooops\obj\Debug\net5.0\udclassesLooops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUNami\Desktop\repos\udclassesLooops\obj\Debug\net5.0\udclassesLooops.AssemblyInfoInputs.cache
+C:\Users\SUNami\Desktop\repos\udclassesLooops\obj\Debug\net5.0\udclassesLooops.AssemblyInfo.cs
+C:\Users\SUNami\Desktop\repos\udclassesLooops\obj\Debug\net5.0\udclassesLooops.csproj.CoreCompileInputs.cache
+C:\Users\SUNami\Desktop\repos\udclassesLooops\obj\Debug\net5.0\udclassesLooops.dll
+C:\Users\SUNami\Desktop\repos\udclassesLooops\obj\Debug\net5.0\ref\udclassesLooops.dll
+C:\Users\SUNami\Desktop\repos\udclassesLooops\obj\Debug\net5.0\udclassesLooops.pdb
+C:\Users\SUNami\Desktop\repos\udclassesLooops\obj\Debug\net5.0\udclassesLooops.genruntimeconfig.cache

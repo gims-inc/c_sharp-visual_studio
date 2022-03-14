@@ -1,0 +1,32 @@
+C:\Users\gimsinc 0153\source\repos\udclassRandom\bin\Debug\net5.0\udclassRandom.exe
+C:\Users\gimsinc 0153\source\repos\udclassRandom\bin\Debug\net5.0\udclassRandom.deps.json
+C:\Users\gimsinc 0153\source\repos\udclassRandom\bin\Debug\net5.0\udclassRandom.runtimeconfig.json
+C:\Users\gimsinc 0153\source\repos\udclassRandom\bin\Debug\net5.0\udclassRandom.runtimeconfig.dev.json
+C:\Users\gimsinc 0153\source\repos\udclassRandom\bin\Debug\net5.0\udclassRandom.dll
+C:\Users\gimsinc 0153\source\repos\udclassRandom\bin\Debug\net5.0\ref\udclassRandom.dll
+C:\Users\gimsinc 0153\source\repos\udclassRandom\bin\Debug\net5.0\udclassRandom.pdb
+C:\Users\gimsinc 0153\source\repos\udclassRandom\obj\Debug\net5.0\udclassRandom.csproj.AssemblyReference.cache
+C:\Users\gimsinc 0153\source\repos\udclassRandom\obj\Debug\net5.0\udclassRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gimsinc 0153\source\repos\udclassRandom\obj\Debug\net5.0\udclassRandom.AssemblyInfoInputs.cache
+C:\Users\gimsinc 0153\source\repos\udclassRandom\obj\Debug\net5.0\udclassRandom.AssemblyInfo.cs
+C:\Users\gimsinc 0153\source\repos\udclassRandom\obj\Debug\net5.0\udclassRandom.csproj.CoreCompileInputs.cache
+C:\Users\gimsinc 0153\source\repos\udclassRandom\obj\Debug\net5.0\udclassRandom.dll
+C:\Users\gimsinc 0153\source\repos\udclassRandom\obj\Debug\net5.0\ref\udclassRandom.dll
+C:\Users\gimsinc 0153\source\repos\udclassRandom\obj\Debug\net5.0\udclassRandom.pdb
+C:\Users\gimsinc 0153\source\repos\udclassRandom\obj\Debug\net5.0\udclassRandom.genruntimeconfig.cache
+C:\Users\SUNami\Desktop\repos\udclassRandom\bin\Debug\net5.0\udclassRandom.exe
+C:\Users\SUNami\Desktop\repos\udclassRandom\bin\Debug\net5.0\udclassRandom.deps.json
+C:\Users\SUNami\Desktop\repos\udclassRandom\bin\Debug\net5.0\udclassRandom.runtimeconfig.json
+C:\Users\SUNami\Desktop\repos\udclassRandom\bin\Debug\net5.0\udclassRandom.runtimeconfig.dev.json
+C:\Users\SUNami\Desktop\repos\udclassRandom\bin\Debug\net5.0\udclassRandom.dll
+C:\Users\SUNami\Desktop\repos\udclassRandom\bin\Debug\net5.0\ref\udclassRandom.dll
+C:\Users\SUNami\Desktop\repos\udclassRandom\bin\Debug\net5.0\udclassRandom.pdb
+C:\Users\SUNami\Desktop\repos\udclassRandom\obj\Debug\net5.0\udclassRandom.csproj.AssemblyReference.cache
+C:\Users\SUNami\Desktop\repos\udclassRandom\obj\Debug\net5.0\udclassRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUNami\Desktop\repos\udclassRandom\obj\Debug\net5.0\udclassRandom.AssemblyInfoInputs.cache
+C:\Users\SUNami\Desktop\repos\udclassRandom\obj\Debug\net5.0\udclassRandom.AssemblyInfo.cs
+C:\Users\SUNami\Desktop\repos\udclassRandom\obj\Debug\net5.0\udclassRandom.csproj.CoreCompileInputs.cache
+C:\Users\SUNami\Desktop\repos\udclassRandom\obj\Debug\net5.0\udclassRandom.dll
+C:\Users\SUNami\Desktop\repos\udclassRandom\obj\Debug\net5.0\ref\udclassRandom.dll
+C:\Users\SUNami\Desktop\repos\udclassRandom\obj\Debug\net5.0\udclassRandom.pdb
+C:\Users\SUNami\Desktop\repos\udclassRandom\obj\Debug\net5.0\udclassRandom.genruntimeconfig.cache

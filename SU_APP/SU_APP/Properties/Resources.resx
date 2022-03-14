@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="accounts-512x512-474990" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\accounts-512x512-474990.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="add-512x512-475004" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\add-512x512-475004.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="adjustments-512x512-475005" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\adjustments-512x512-475005.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="airdrop-512x512-475006" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\airdrop-512x512-475006.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="alarm-512x512-475003" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\alarm-512x512-475003.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="antenna-512x512-474997" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\antenna-512x512-474997.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="backward-512x512-475048" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\backward-512x512-475048.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="battery-512x512-474982" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\battery-512x512-474982.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blutooth-512x512-474998" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blutooth-512x512-474998.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bookmark-512x512-474980" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bookmark-512x512-474980.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="calculator-512x512-474995" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\calculator-512x512-474995.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camera-512x512-475002" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camera-512x512-475002.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dialup-512x512-474992" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dialup-512x512-474992.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="driving-mode-512x512-475008" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\driving-mode-512x512-475008.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="facetime-512x512-475009" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\facetime-512x512-475009.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fast-forward-512x512-475046" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fast-forward-512x512-475046.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="file-512x512-475010" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\file-512x512-475010.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="filter-512x512-475011" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\filter-512x512-475011.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flash-512x512-475012" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flash-512x512-475012.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="guided-access-512x512-475000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\guided-access-512x512-475000.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="help-512x512-475013" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\help-512x512-475013.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hotspot-512x512-475014" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hotspot-512x512-475014.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icloud-512x512-475015" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icloud-512x512-475015.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icloud-download-512x512-475016" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icloud-download-512x512-475016.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="incoming-call-512x512-474994" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\incoming-call-512x512-474994.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iphonex-512x512-475021" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iphonex-512x512-475021.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="launch-512x512-475022" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\launch-512x512-475022.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="layer-512x512-475023" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\layer-512x512-475023.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="list-512x512-475020" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\list-512x512-475020.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lock-512x512-475024" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lock-512x512-475024.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="low-battery-512x512-474981" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\low-battery-512x512-474981.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mail-512x512-475025" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mail-512x512-475025.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menu-512x512-474985" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\menu-512x512-474985.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mic-512x512-474988" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mic-512x512-474988.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="missed-call-512x512-475026" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\missed-call-512x512-475026.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="music-512x512-475047" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\music-512x512-475047.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="music-512x512-475049" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\music-512x512-475049.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="music-tune-512x512-475001" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\music-tune-512x512-475001.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mute-512x512-474987" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mute-512x512-474987.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mute-512x512-475027" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mute-512x512-475027.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="no-flash-512x512-475028" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\no-flash-512x512-475028.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="notes-512x512-475029" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\notes-512x512-475029.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="outgoing-call-512x512-474993" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\outgoing-call-512x512-474993.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="phone-512x512-475007" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\phone-512x512-475007.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="plane-512x512-474991" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\plane-512x512-474991.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="play-512x512-475031" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\play-512x512-475031.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="playlist-512x512-475030" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\playlist-512x512-475030.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="printer-512x512-475032" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\printer-512x512-475032.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="redo-512x512-475034" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\redo-512x512-475034.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="refresh-512x512-474986" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\refresh-512x512-474986.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reload-512x512-475019" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reload-512x512-475019.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="repeat-play-512x512-475035" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\repeat-play-512x512-475035.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="screen-monitoring-512x512-475036" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\screen-monitoring-512x512-475036.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="screen-recording-512x512-475033" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\screen-recording-512x512-475033.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="timer-512x512-475037" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\timer-512x512-475037.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="today-post-512x512-475018" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\today-post-512x512-475018.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="torch-512x512-474989" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\torch-512x512-474989.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="touch-512x512-475017" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\touch-512x512-475017.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="undo-512x512-475038" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\undo-512x512-475038.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="unlock-512x512-474999" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\unlock-512x512-474999.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="up-512x512-475039" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\up-512x512-475039.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="video-512x512-475041" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\video-512x512-475041.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="video-purchase-512x512-475040" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\video-purchase-512x512-475040.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="voice-512x512-475042" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\voice-512x512-475042.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="voicemail-512x512-475043" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\voicemail-512x512-475043.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wallpaper-512x512-475044" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallpaper-512x512-475044.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wifi-512x512-474996" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wifi-512x512-474996.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wifi-512x512-475045" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wifi-512x512-475045.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="zoomin-512x512-474983" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\zoomin-512x512-474983.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="zoomout-512x512-474984" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\zoomout-512x512-474984.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="accounts-512x512-4749901" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\accounts-512x512-4749901.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
